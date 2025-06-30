@@ -19,3 +19,4 @@ seaborn
 huggingface_hub
 onnx==1.17.0
 onnxruntime-gpu==1.21.0
+opencv-python

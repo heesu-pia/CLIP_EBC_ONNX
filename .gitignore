@@ -178,3 +178,8 @@ CLIP_EBC_nwpu_rmse.pth
 *.pth
 *.engine
 *.trt
+
+# Large files
+*.mp4
+*.png
+*.jpg
