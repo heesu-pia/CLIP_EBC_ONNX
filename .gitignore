@@ -184,3 +184,6 @@ CLIP_EBC_nwpu_rmse.pth
 *.png
 *.jpg
 dataset
+
+# Outputs
+output*/
